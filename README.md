@@ -1,2 +1,3 @@
-# ai-iot
-Using ChatGPT, giving crystal clear requirements in prompt, getting things done in IoT space.
+# AI IoT
+Greetings, fellow developers! I want to share with you my exciting journey of utilizing ChatGPT to revolutionize my IoT projects. Brace yourselves, because I'm about to spill the beans on how I was able to effortlessly communicate crystal clear requirements to ChatGPT and witness the magic of getting things done in the blink of an eye. Every single requirement was met with ease, as I provided ChatGPT with a prompt and watched in awe as it churned out the most optimal wiring details and sketch code. I will take you through each requirement and highlight the prompt that was sent to ChatGPT, followed by the incredible response we received. Get ready to be blown away!
+
